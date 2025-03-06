@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-
+https://submissions.us-east-1.linodeobjects.com/ios101/PrmvXsn4.gif 
 
 ## Notes
 
